@@ -1,0 +1,14 @@
+{
+  "name": "JSWebStart",
+  "version": "0.0.1",
+  "description": "A clean Web application startup with support to NPM/Yarn, Coffeescript and Bootstrap",
+  "main": "index.js",
+  "author": "Alessio Saltarin",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "coffeescript": "^1.12.6",
+    "jquery": "^3.2.1",
+    "less": "^2.7.2"
+  }
+}
