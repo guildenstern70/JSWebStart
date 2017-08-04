@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Alessio Saltarin",
   "license": "MIT",
+  "scripts": {
+    "prepublish": "coffee --compile --output js/ js/"
+  },
   "dependencies": {
     "bootstrap": "^3.3.7",
     "coffeescript": "^1.12.6",
